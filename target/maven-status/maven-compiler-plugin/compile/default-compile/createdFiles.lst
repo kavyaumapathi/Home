@@ -1,0 +1,4 @@
+com\qa\TestDataDriven\ExcelUtility.class
+com\qa\ExtentReport\ExtentFactory.class
+com\qa\pages\EcomRegister.class
+com\qa\TestBase\TestBase.class
