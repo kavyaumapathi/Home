@@ -11,6 +11,9 @@ public static ExtentReports Instance()
 	extent=new ExtentReports(path,false);
 	extent.addSystemInfo("Selenium version", "3.14");
 	extent.addSystemInfo("platform", "windows");
+	
+	
+	
 	return extent;
 	
 	
