@@ -13,8 +13,7 @@ public static ExtentReports Instance()
 	extent.addSystemInfo("platform", "windows");
 	
 	
-	
-	
+	//hello
 	return extent;
 	
 	
